@@ -1,0 +1,34 @@
+h1{
+     color: darkblue;
+     background-color: cornsilk;
+     text-align: center;
+     border: 2px ;
+     border-color: black;
+     border-style: solid;
+     border-radius: 19px ;
+}
+table,th,td {
+    border: 2px rgb(8, 7, 6) solid;
+}
+img {
+     width: 100 px;
+     height: 200 px;
+}
+#head{
+color: black;
+
+}
+#here{
+    color: maroon;
+}
+.part { background-color: rgb(2, 39, 48);
+    color: rgb(77, 75, 77);
+    text-align: center;
+    font-style: italic;
+    margin: 70px 50px 80px 40px;
+    padding: 20px 40px 50px 30px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmwYTSHfrqzv9RK6iEcDfUfRznKWuZgi02A&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
